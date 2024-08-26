@@ -1,0 +1,206 @@
+*{
+    background-color: black;
+    margin: 0;
+}
+
+.first-page{
+    display: flex;
+    justify-content: center;
+}
+
+.first-page h1{
+    font-size: 2rem;
+    font-weight: 700;
+    color: purple;
+    margin-top: 30px;
+    text-decoration: underline;
+}
+
+#para1{
+    color: aqua;
+    padding-top: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-weight: 700;
+    font-size: 1.3rem;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.img-1{
+    height: 400px;
+    width: 400px;
+    background-image: url(WhatsApp\ Image\ 2024-08-22\ at\ 20.44.52_8cb36ad5.jpg);
+    background-size: cover;
+    margin: 30px 0px 0px 440px;
+}
+
+form h1{
+    color: wheat;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.fullname{
+    color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-p{
+    color: white;
+    font-size: 1.3rem
+}
+
+input{
+    background-color: white;
+    height: 30px;
+    width: 200px;
+    color: black;
+    font-size: 1rem;
+    font-weight: 700;
+    border-radius: 5px;
+    margin-left: 5px
+}
+
+
+#Message{
+    background-color: white;
+    height: 50px;
+    width: 240px;
+    color: black;
+    font-size: 1rem;
+    font-weight: 700;
+    border-radius: 5px;
+    margin-left: 5px
+}
+
+button{
+    background-color: white;
+    height: 30px;
+    width: 80px;
+    border-radius: 10px;
+    color: black;
+    font-weight: 700;
+    font-size: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 690px;
+}
+
+.tab{
+    height: 400px;
+    width: 400px;
+    background-color: white;
+}
+
+.table-head{
+    margin-top: 40px;
+    color: rgb(105, 9, 207);
+    text-decoration: underline;
+    justify-content: center;
+    text-align: center;
+}
+
+.table-cen{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 40px;
+}
+
+table {
+    border-collapse: collapse; 
+    width: 50%; 
+    justify-content: center;
+    text-align: center;
+}
+th, td {
+    border: 2px solid white;
+    padding: 8px; 
+    height: 100px;
+    font-size: 1rem;
+    font-weight: 700;
+    text-align: center; 
+    color: white
+    
+}
+th {
+    background-color: #4CAF50; 
+    color: white; 
+}
+
+.formula {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.formula h1{
+    color: rgb(105, 9, 207);
+}
+
+.formula li{
+    margin-top: 20px;
+    color: white;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+
+
+.note{
+    color: white;
+    font-size: 1.3rem;
+    font-weight: 700;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.note a{
+    color: aqua;
+}
+
+.top-std{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.top-std li{
+    margin-top: 20px;
+    color: white;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.video{
+    height: 400px;
+    width: 800px;
+    background-image: url(WhatsApp\ Image\ 2024-08-22\ at\ 23.20.11_8d482d27.jpg);
+    background-size: cover;
+    margin: 30px 0px 0px 290px;
+}
+
+.info{
+    color: white;
+    font-size: 1.3rem;
+    font-weight: 700;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.info-a{
+    color: aquamarine;
+    font-weight: 400;
+    font-size: 1rem;
+}
